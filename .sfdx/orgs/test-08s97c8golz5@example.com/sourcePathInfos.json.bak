@@ -1,0 +1,122 @@
+[
+    [
+        "/Users/yusuke/dev/projects/force/web/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yusuke/dev/projects/force/web/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1519913862297,
+            "changeTime": 1519913862297,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/yusuke/dev/projects/force/web/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yusuke/dev/projects/force/web/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1519914208663,
+            "changeTime": 1519914208663,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yusuke/dev/projects/force/web/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yusuke/dev/projects/force/web/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519914208663,
+            "changeTime": 1519914208663,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yusuke/dev/projects/force/web/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yusuke/dev/projects/force/web/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1519913862297,
+            "changeTime": 1519913862297,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yusuke/dev/projects/force/web/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yusuke/dev/projects/force/web/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519914180872,
+            "changeTime": 1519914208663,
+            "contentHash": "1387212d946b8dbeaa67d0edf5d37c299bfd18d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yusuke/dev/projects/force/web/force-app/main/default/classes/myclass.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yusuke/dev/projects/force/web/force-app/main/default/classes/myclass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1519914224894,
+            "changeTime": 1519914224894,
+            "contentHash": "936dcc846503fd6d983b9469ad35c1da028bfe37",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yusuke/dev/projects/force/web/force-app/main/default/classes/myclass.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yusuke/dev/projects/force/web/force-app/main/default/classes/myclass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1519914180873,
+            "changeTime": 1519914180873,
+            "contentHash": "5afaef8889a2e06d2b766554eb57077c5b0f2619",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yusuke/dev/projects/force/web",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yusuke/dev/projects/force/web",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1519913983036,
+            "changeTime": 1519913983036,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
